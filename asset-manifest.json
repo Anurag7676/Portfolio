@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7fc0957f.css",
+    "main.js": "/portfolio/static/js/main.d1a2110b.js",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.ab5d8ab0554e7cc417e5.png",
+    "static/media/social-media.jpg": "/portfolio/static/media/social-media.ba78aa5f6ede3673b222.jpg",
+    "static/media/github-scrap.jpeg": "/portfolio/static/media/github-scrap.08a8cbda41a03b5bf53f.jpeg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/expressjs.jpg": "/portfolio/static/media/expressjs.5f55afe999b8f7f7fd86.jpg",
+    "static/media/todo-app.jpg": "/portfolio/static/media/todo-app.a074e3e2a37db016abc1.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/mongodb.jpeg": "/portfolio/static/media/mongodb.89064175c79c34ddcd63.jpeg",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.7fc0957f.css.map": "/portfolio/static/css/main.7fc0957f.css.map",
+    "main.d1a2110b.js.map": "/portfolio/static/js/main.d1a2110b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc0957f.css",
+    "static/js/main.d1a2110b.js"
+  ]
+}
